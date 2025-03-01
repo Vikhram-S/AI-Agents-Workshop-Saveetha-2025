@@ -7,8 +7,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="researchbriefagent",
     version="0.1.1",
-    author="Vikhram S",
-    author_email="vikhrams@saveetha.ac.in",
+    author="Priyadharshini J",
+    author_email="priyajayaraman1908@gmail.com",
     description="A Python package for creating a research brief agent",
     long_description=long_description,
     long_description_content_type="text/markdown",
