@@ -12,7 +12,7 @@ setup(
     description="A Python package for creating a research brief agent",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Vikhram-S/research_brief_agent",
+    url="https://github.com/Priya-08-2224/AI-Agents-Workshop-Saveetha-2025/blob/main/researchbriefagent/setup.py",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
@@ -39,8 +39,8 @@ setup(
     ],
     python_requires=">=3.7, <3.14",
     project_urls={
-        "Bug Tracker": "https://github.com/Vikhram-S/research_brief_agent",
-        "Documentation": "https://github.com/Vikhram-S/research_brief_agent",
-        "Source Code": "https://github.com/Vikhram-S/research_brief_agent",
+        "Bug Tracker": "https://github.com/Priya-08-2224/AI-Agents-Workshop-Saveetha-2025/blob/main/researchbriefagent/setup.py",
+        "Documentation": "hhttps://github.com/Priya-08-2224/AI-Agents-Workshop-Saveetha-2025/blob/main/researchbriefagent/setup.py",
+        "Source Code": "https://github.com/Priya-08-2224/AI-Agents-Workshop-Saveetha-2025/blob/main/researchbriefagent/setup.py",
     },
 )
